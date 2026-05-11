@@ -45,12 +45,12 @@ Para rodar este projeto localmente, siga os passos abaixo:
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/pedromatoswp/projeto-catalogo-de-jogos.git
+git clone https://github.com/Daniel-Vara/GameCatalog.git
 ```
 
 2. Entre na pasta do projeto:
 ```bash
-cd projeto-catalogo-de-jogos
+cd GameCatalog
 ```
 
 3. Instale as dependências:
